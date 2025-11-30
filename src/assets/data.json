@@ -1,0 +1,74 @@
+{
+  "intro": "Hello! I'm _, I'm a _ based in _. I've been programming for _ years now and I love being creative, whether its building applications or making art!",
+  "stats": {
+    "name": "Tony Zhang",
+    "title": "Software Engineer & Full-Stack Developer",
+    "location": "Naperville, IL, USA",
+    "birthdate": {
+      "month": 10,
+      "year": 2002
+    },
+    "coding since": 2019,
+    "drawing since": 2015
+  },
+  "socials": {
+    "resume": "",
+    "email": "tonyzhang.75n@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/tonyzhang75n/",
+    "github": "https://github.com/7cevge",
+    "instagram": ""
+  },
+  "code": {
+    "//project name": {
+      "date": "",
+      "description": "",
+      "link": "",
+      "technologies": [],
+      "images": []
+    },
+    "7cevge.github.io": {
+      "date": "//footer latest update date will take from here",
+      "description": "",
+      "link": "",
+      "technologies": [],
+      "images": []
+    }
+  },
+  "art": {
+    "//project name": {
+      "date": "",
+      "description": "",
+      "technologies": [],
+      "images": []
+    }
+  },
+  "certifications": {
+    "//certification name": {
+      "date": "",
+      "issuer": "",
+      "link": ""
+    }
+  },
+  "technologies": {
+    "current": [],
+    "languages": [],
+    "frameworks & libraries": [],
+    "databases & cloud services": [],
+    "devops & other tools": [],
+    "miscellaneous": [],
+    "icons": {
+      "//tech name": "icon path or react icon name"
+    }
+  },
+  "experiences": {
+    "//position name //anything else that does on the timeline that isnt: code|art|cert": {
+      "date": "",
+      "company": "",
+      "location": "",
+      "description": ""
+    }
+  },
+  "highlights": [
+    "// match the proj/cert/pos name"
+  ]
+}
