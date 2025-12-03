@@ -4,10 +4,7 @@
     "name": "Tony Zhang",
     "title": "Software Engineer & Full-Stack Developer",
     "location": "Naperville, IL, USA",
-    "birthdate": {
-      "month": 10,
-      "year": 2002
-    },
+    "birth": 2002,
     "coding since": 2019,
     "drawing since": 2015
   },
@@ -43,32 +40,60 @@
     }
   },
   "certifications": {
-    "//certification name": {
-      "date": "",
-      "issuer": "",
-      "link": ""
+    "Bachelor of Science in Computer Science": {
+      "date": "08/21 - 05/25",
+      "issuer": "Illinois Institute of Technology",
+      "link": "https://www.parchment.com/u/award/66a0028c08c6aea59c8b0ffc48865d99"
+    },
+    "Master of Computer Science": {
+      "date": "08/21 - 05/25",
+      "issuer": "Illinois Institute of Technology",
+      "link": "https://www.parchment.com/u/award/d179a5c8ee41779b29d66f3b7b197773"
     }
   },
   "technologies": {
-    "current": [],
-    "languages": [],
-    "frameworks & libraries": [],
-    "databases & cloud services": [],
-    "devops & other tools": [],
-    "miscellaneous": [],
-    "icons": {
-      "//tech name": "icon path or react icon name"
-    }
+    "current": ["go", "java", "python", "googlecloud", "figma", "git", "github"],
+    "languages": ["c", "css", "dart", "go", "html", "java", "javascript", "python", "r", "racket", "sql", "typescript"],
+    "frameworks & libraries": ["discordjs", "flutter", "javafx", "matplotlib", "pandas", "react", "tailwindcss", "tensorflow"],
+    "databases & cloud services": ["mysql", "postgresql", "sqlite", "aws", "googlecloud"],
+    "devops & other tools": ["figma", "git", "github", "nodejs", "ollama", "scenebuilder"],
+    "miscellaneous": ["acrylic", "animate", "illustrator", "krita", "lightworks", "pencil", "photoshop", "procreate", "watercolor"]
   },
   "experiences": {
-    "//position name //anything else that does on the timeline that isnt: code|art|cert": {
-      "date": "",
-      "company": "",
-      "location": "",
+    "first program": {
+      "date": "09/19 - 05/20",
+      "company": "Ray Chinese School",
+      "location": "Lisle, IL",
+      "description": "The started my programming journey. Learning basic java on the weekends."
+    },
+    "Teaching Assistant": {
+      "date": "01/23 - 12/23",
+      "company": "Illinois Institute of Technology",
+      "location": "Chicago, IL",
+      "description": ""
+    },
+    "Supplementary Instructor": {
+      "date": "08/23 - 05/25",
+      "company": "Illinois Institute of Technology",
+      "location": "Chicago, IL",
+      "description": ""
+    },
+    "Library Assistant": {
+      "date": "08/23 - 05/25",
+      "company": "Illinois Institute of Technology",
+      "location": "Chicago, IL",
+      "description": ""
+    },
+    "Cloud Engineer Intern": {
+      "date": "12/25 - Now",
+      "company": "Dalave LLC",
+      "location": "Remote",
       "description": ""
     }
   },
   "highlights": [
-    "// match the proj/cert/pos name"
+    "experiences.Cloud Engineer Intern",
+    "certifications.Master of Computer Science",
+    "experiences.first program"
   ]
 }
