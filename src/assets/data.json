@@ -16,7 +16,7 @@
     "instagram": ""
   },
   "code": {
-    "//project name": {
+    "Reuni": {
       "date": "",
       "description": "",
       "link": "",
@@ -25,6 +25,20 @@
     },
     "7cevge.github.io": {
       "date": "//footer latest update date will take from here",
+      "description": "",
+      "link": "",
+      "technologies": ["html", "javascript", "react", "tailwindcss", "figma", "github"],
+      "images": []
+    },
+    "Goated Grades Tracker": {
+      "date": "",
+      "description": "",
+      "link": "",
+      "technologies": [],
+      "images": []
+    },
+    "Discord Adventure Bot": {
+      "date": "",
       "description": "",
       "link": "",
       "technologies": [],
@@ -84,7 +98,7 @@
       "location": "Chicago, IL",
       "description": ""
     },
-    "Cloud Engineer Intern": {
+    "AI Infrastructure Engineer Intern": {
       "date": "12/25 - Now",
       "company": "Dalave LLC",
       "location": "Remote",
@@ -92,7 +106,7 @@
     }
   },
   "highlights": [
-    "experiences.Cloud Engineer Intern",
+    "experiences.AI Infrastructure Engineer Intern",
     "certifications.Master of Computer Science",
     "experiences.first program"
   ]

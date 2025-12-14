@@ -1,1 +1,24 @@
 @import "tailwindcss";
+
+@theme {
+  --color-prim: #30F4E4;
+  --color-second: #00B2D1;
+  --color-terti: #FFE700;
+}
+
+.hero-glow {
+  text-shadow:
+     0px -2px 0 var(--color-prim),
+     2px -2px 0 var(--color-prim),
+     2px  0px 0 var(--color-prim),
+     2px  2px 0 var(--color-prim),
+     0px  2px 0 var(--color-prim),
+    -2px  2px 0 var(--color-prim),
+    -2px -2px 0 var(--color-prim),
+    -2px  0px 0 var(--color-prim);
+}
+
+body {
+  @apply bg-linear-to-b from-black to-blue-900 text-white font-sans text-[16px];
+  min-height: 100vh 
+}
